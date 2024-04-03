@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Demo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header"></div>
+  <h1 class="page-title">Products</h1>
+
+    <div id="template-output"></div>
+
+    <script id="template" type="text/template">
+        {{#items}}
+        <div class="product">
+
+          <div class="image-container">
+            <img src="{{Image URL}}" alt="{{Title}}">
+          </div>
+            <div class="product-title">{{Title}}</div>
+            <div class="product-description">{{Brief Description}}</div>
+            <a href="{{SP Details Page}}" class="product-link">View Products</a>
+        </div>
+        {{/items}}
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
