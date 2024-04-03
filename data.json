@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "3",
+    "Title": "Radiotherapy Bolus",
+    "Brief Description": "This product provides personalized patient cancer treatment using 3D printing. The VHA Radiotherapy Bolus uses a digital design created by an oncology professional as part of their regular treatment planning to match each Veteran’s unique anatomy. The Radiotherapy Bolus is placed on the skin surface of the skin with the intention of limiting the radiation dose received by the healthy tissue while focusing the external beam radiation therapy on the tumor. The VHA Radiotherapy Bolus uses the digital design created by an oncology professional as part of their regular treatment planning to match each patient’s anatomy. The physical bolus can be reused for multiple treatment sessions and replaces the need to hand fabricate radiotherapy accessories for the same purpose, which was previously done.",
+    "Image URL": "ftp://data.bgsandbox.com/oam-sharepoint-products/images/si-Products-Img4.png",
+    "SP Details Page": "https://dvagov.sharepoint.com/sites/vhaoam/SitePages/RadiotherapyBolus.aspx"
+  },
+  {
+    "ID": "4",
+    "Title": "OMF ASP Systems",
+    "Brief Description": "<div>The Oromaxillofacial Advanced Surgical Planning (OMF ASP) System is a virtual planning process that allows a clinician to simulate/evaluate different surgical treatment options for mandible and maxilla reconstructive surgeries as well as create patient surgical guides and models to implement the virtual surgical plan in the OR. The system utilizes specialized FDA cleared software to convert medical images (CT scans) to virtual patient specific models. This allows the surgeon to simulate and fine tune the surgical approach for the reconstruction of the jaw with a technical expert on the product and establish the best approach before going into the OR. This virtual surgical plan is implemented in the OR through the creation of patient specific surgical guides and models that are sterilized for use during surgery. </div>",
+    "Image URL": "https://data.bgsandbox.com/oam-sharepoint-products/images/si-Products-Img3-OMF.png",
+    "SP Details Page": "https://dvagov.sharepoint.com/sites/vhaoam/SitePages/OMFASPSystems.aspx"
+  },
+  {
+    "ID": "1",
+    "Title": "The Thermal Fuse Cover",
+    "Brief Description": "<div>The Thermal Fuse Cover deters removal of the thermal fuse. It’s a protective clam shell that shields the thermal fuse making it difficult for this essential safety feature to be removed.&nbsp; The thermal fuse is a safety device that is inserted into the oxygen line of patients with at-home oxygen, to stop fire from traveling from the patient to the oxygen tank.&nbsp; This stops the flow of oxygen removing a major source of fire acceleration, potentially preventing ignition of the oxygen source or nearby materials.</div>",
+    "Image URL": "https://data.bgsandbox.com/oam-sharepoint-products/images/si-Products-Img1-ThermalFuseCover.png",
+    "SP Details Page": "https://dvagov.sharepoint.com/sites/vhaoam/SitePages/TheThermalFuseCover.aspx"
+  },
+  {
+    "ID": "7",
+    "Title": "Pre-Procedural Medical Models",
+    "Brief Description": "<p>3D-printed medical models, generated from CT and MRI scans, are invaluable tools used by surgical and clinical care teams in planning complex procedures. These patient-specific models provide tangible guidance during surgery, assisting VA medical providers in anticipating challenges, optimizing approaches, and minimizing risks. By offering a physical representation of the patient's anatomy, these models enable the surgical team to better understand each patient's unique condition and associated risks. Ultimately, they enhance planning and risk mitigation before entering the operating room.</p>",
+    "Image URL": "https://data.bgsandbox.com/oam-sharepoint-products/images/OAM-ImgPreProcedural.jpg",
+    "SP Details Page": "https://dvagov.sharepoint.com/sites/vhaoam/SitePages/Pre-ProceduralMedicalModels.aspx"
+  }
+]
